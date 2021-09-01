@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Travel Advisory react app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made using react, react-bootstrap, VS code
+You can checkout overview of hotels, restaurants & attractions around you, it detects geolocation of user and lists places, also show up them on map.
+
+![image](https://user-images.githubusercontent.com/73774388/131710443-0cf5aea6-23b5-45f0-a0dc-23fc4d60891f.png)
 
 ## Available Scripts
 
