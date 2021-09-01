@@ -1,7 +1,7 @@
 # Travel Advisory react app
 
-This project was made using react, react-bootstrap, VS code
-You can checkout overview of hotels, restaurants & attractions around you, it detects geolocation of user and lists places, also show up them on map.
+This project was made using react, react-bootstrap, VS code, travel advisor api from rapidapi & google maps api.
+You can checkout overview of hotels, restaurants & attractions around you, it detects geolocation of user and lists places, also show up them on map and we can filter places based on hotels, restaurants, attractions & also on rating.
 
 ![image](https://user-images.githubusercontent.com/73774388/131710443-0cf5aea6-23b5-45f0-a0dc-23fc4d60891f.png)
 
